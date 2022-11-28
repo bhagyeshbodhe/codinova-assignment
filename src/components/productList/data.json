@@ -1,0 +1,95 @@
+[
+  {
+    "name": "computer",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "comuter.jpg",
+    "color": "red"
+  },
+  {
+    "name": "sweater",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…",
+    "color": "green"
+  },
+  {
+    "name": "tie",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "tie.jpeg",
+    "color": "blue"
+  },
+  {
+    "name": "jacket",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "jacket.jpeg",
+    "color": "orange"
+  },
+  {
+    "name": "grapes",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "comuter.jpg",
+    "color": "yellow"
+  },
+  {
+    "name": "keyboard",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…",
+    "color": "purple"
+  },
+  {
+    "name": "headphone",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "tie.jpeg",
+    "color": "gold"
+  },
+  {
+    "name": "fruits",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "jacket.jpeg",
+    "color": "cyan"
+  },
+  {
+    "name": "cycle",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "comuter.jpg",
+    "color": "magenta"
+  },
+  {
+    "name": "bike",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…",
+    "color": "lavender"
+  },
+  {
+    "name": "mouse",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "tie.jpeg",
+    "color": "seagreen"
+  },
+  {
+    "name": "notebook",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "jacket.jpeg",
+    "color": "aquamarine"
+  }
+]

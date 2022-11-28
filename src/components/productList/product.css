@@ -1,0 +1,12 @@
+.product {
+  width: 250px;
+  height: 200px;
+  padding: 5px;
+  margin: 15px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.product:hover {
+  color: white;
+}
