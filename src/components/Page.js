@@ -4,7 +4,7 @@ import ProductList from "./productList/ProductList";
 const Page = () => {
   return (
     <>
-      <div style={{ display: "flex", justifyContent: "end" }}>
+      <div style={{ display: "flex", justifyContent: "space-between" }}>
         <CheckOut />
         <ProductList />
       </div>
